@@ -1,1 +1,1 @@
-# IndividualProjectDSCI100_Puneet_Arora
+# IndividualProject_DSCI100_Puneet_Arora
